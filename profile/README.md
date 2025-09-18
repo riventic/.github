@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="../img.png" alt="Riventic - Automation & Innovation" width="100%" style="border-radius: 10px;" />
+  <img src="../img.jpeg" alt="Riventic - Automation & Innovation" width="100%" style="border-radius: 10px;" />
 </div>
 
-<h1 align="center">=€ Riventic</h1>
+<h1 align="center">=ï¿½ Riventic</h1>
 
 <p align="center">
   <strong>Automation " Innovation " Excellence</strong>
@@ -14,18 +14,18 @@
 
 ---
 
-## <¯ Our Mission
+## <ï¿½ Our Mission
 
 We are passionate about transforming industries through innovative automation solutions. Our expertise spans across robotics, AI-driven systems, and intelligent warehouse management - delivering efficiency, precision, and scalability to modern businesses.
 
 ## =' What We Do
 
 - **> Robotic Automation** - Advanced robotic systems for manufacturing and logistics
-- **=æ Smart Warehousing** - Intelligent inventory management and automated fulfillment
-- **¡ Process Optimization** - Streamlining operations through technology integration
-- **>à AI Solutions** - Machine learning and artificial intelligence implementations
+- **=ï¿½ Smart Warehousing** - Intelligent inventory management and automated fulfillment
+- **ï¿½ Process Optimization** - Streamlining operations through technology integration
+- **>ï¿½ AI Solutions** - Machine learning and artificial intelligence implementations
 
-## =¡ Innovation at Scale
+## =ï¿½ Innovation at Scale
 
 Our solutions are designed to handle complex operational challenges while maintaining the flexibility to adapt to evolving business needs. From small-scale automation to enterprise-wide transformations, we deliver technology that makes a difference.
 
